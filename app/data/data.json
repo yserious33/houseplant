@@ -1,0 +1,24 @@
+{
+  "types": [{
+    "title" : "Easy Upkeep",
+    "name": "Succulents",
+    "shortname" : "succulents",
+    "summary" : "Go away a lot on vacation or just forgetful to your water plants? Succulents are very hardy plants and thrive on neglect! These plants only require once a week watering, but can do even longer if needed. No surprise that these are native to deserts and other arid climates.",
+    "description": "<p>In botany, succulent plants, also known as succulents or sometimes water storage plants, are plants that have some parts that are more than normally thickened and fleshy, usually to retain water in arid climates or soil conditions.</p><p>The defining traits of succulents are that they are drought resistant plants in which the leaves, stem or roots have become more than usually fleshy by the development of water-storing tissue, thus making them a great beginner-level houseplant. Watering only needed once weekly, at most.</p><p> Examples include aloes, cacti, and Jade Plant.",
+    "plant": ["succulents_01_tn.jpg", "succulents_02_tn.jpg", "succulents_03_tn.jpg", "succulents_04_tn.jpg"]
+  },{
+    "title" : "Moderate Upkeep",
+    "name": "Tropicals",
+    "shortname" : "tropicals",
+    "summary": "Want the lush and color from a rainforest in your own home? Tropicals can help set the vibe! This catergory has the largest variety of houseplants. With proper care and a little bit of knowledge, most plant caregivers can easily care for tropical houseplants in their very own home. ",
+    "description": "<p>The majority of common houseplants fall into the tropical category. These plants require plenty of light and regular watering, but amounts vary species to species. These plants normally do not require change of setting based on outdoor climate, but consult your local plant shop if you notice a change during the weather cycles.</p> These plants will show neglect if lacking water or sunlight, but beware of over-watering.</p><p> Examples include orchids, bromeliads, palms, pothos, and bamboo.</p>",
+    "plant" : ["tropicals_01_tn.jpg" , "tropicals_02_tn.jpg" , "tropicals_03_tn.jpg" , "tropicals_04_tn.jpg" , "tropicals_05_tn.jpg" , "tropicals_06_tn.jpg" , "tropicals_07_tn.jpg"]
+  },{
+    "title" : "Difficult Upkeep",
+    "name": "Temperates",
+    "shortname" : "temperates",
+    "summary": "Want a labor of love houseplant? Temperate plants require a little more attention than most, but are worth it! You will 'Wow' your guests with your unique and one-of-a-kind speciments, as they are a more rare category of houseplants.",
+    "description": "<p>Temperate plants originate in temperate zones, which are the latitudes that lie between the tropics and the polar regions. Temperate plants require climate that temperate zones experience, which are warmer summers and cooler winters. The acclimatization required by these plants makes this an expert-level houseplant.</p><p>The process of acclimatization varies plant to plant and you should consult a professional for more information.<p> Examples include Crocus, Hyacinth, English Ivy, and begonias.</p>",
+    "plant" : ["temperates_01_tn.jpg","temperates_02_tn.jpg","temperates_03_tn.jpg","temperates_04_tn.jpg","temperates_05_tn.jpg","temperates_06_tn.jpg"]
+  }]
+}

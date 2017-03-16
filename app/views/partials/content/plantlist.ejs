@@ -1,0 +1,11 @@
+<article class="sidebar">
+  <h1 class="sidebar-title">Plants on display</h1>
+  <p class="sidebar-body">Get some inspiration for your home with these popular houseplants!</p>
+  <div class="pixgrid clearfix">
+    <% if (plant.length > 0) { %>
+    <% for (i=0; i< plant.length; i++) { %>
+        <img src="/images/plant/<%= plant[i] %>" alt="Plant <%= i %>">
+    <% } %>
+    <% } %>
+  </div>
+</article>
